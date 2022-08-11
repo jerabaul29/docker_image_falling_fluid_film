@@ -4,7 +4,7 @@ All the instructions below are for Linux (typically, a modern Ubuntu). If you ar
 
 ## Getting the container image
 
-The docker image for the falling fluid film repo https://github.com/vbelus/falling-liquid-film-drl , stored with git-lfs.
+The docker image for the falling fluid film repo https://github.com/vbelus/falling-liquid-film-drl and the jupyter notebooks https://github.com/vbelus/drl-fluid-film-notebook , stored with git-lfs.
 
 The container image is available in the ```container``` folder. It is split in segments of max size 500M and committed with git-lfs (in theory git-lfs could commit the whole container, but I encountered issues with large files even in git-lfs in the past, see discussion at **A note here** in the readme at https://github.com/jerabaul29/Cylinder2DFlowControlDRLParallel).
 
