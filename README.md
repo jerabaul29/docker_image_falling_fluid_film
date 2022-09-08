@@ -127,3 +127,8 @@ Some important parameters here are :
 - `simulation_step_time` is the non-dimensional duration of one step of the simulation. In one such step, we do `n_step` steps of the numerical scheme
 - Whether to render the simulation with matplotlib with `render` (bool). If True, render it every `RENDER_PERIOD` (int) environment steps
 
+## Video of the lecture at IFAIME
+
+I was recently invited to give a guest lecture about DRL for flow control at IFAIME; the recording is available at: https://www.youtube.com/watch?v=SfbajZPvGoM .
+
+[![IFAIME guest lecture: DRL for flow control](https://github.com/jerabaul29/Cylinder2DFlowControlDRL/blob/master/assets/image_ifaime_youtube_2.png)](https://www.youtube.com/watch?v=SfbajZPvGoM)
